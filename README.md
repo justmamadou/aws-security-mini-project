@@ -4,6 +4,11 @@
 
 Ce projet a pour objectif de renforcer la sécurité des applications déployées sur AWS. On agira en tant que SysOps administrator pour mettre en œuvre des mesures de sécurité essentielles à l'infrastructure cloud de l'entreprise. Notre travail portera principalement sur la gestion des secrets, la configuration d'une ACL web et la préparation d'une instance EC2 pour l'intégration avec Amazon Inspector.
 
+![image](https://github.com/user-attachments/assets/2da0f00a-9f02-4989-8d7d-621a5f1f68af)
+
+
+
+
 ## Objectifs
 
 - Supprimer les secrets d'un modèle AWS CloudFormation pour sécuriser les informations sensibles.
