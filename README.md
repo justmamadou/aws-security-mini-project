@@ -43,5 +43,5 @@ Ce projet a pour objectif de renforcer la sécurité des applications déployée
 
 ## Conclusion
 
-Ce mini-projet vous permet d'acquérir une expérience pratique dans l'utilisation des services de sécurité AWS pour protéger les applications web et les infrastructures cloud. En suivant les étapes décrites, vous renforcerez la sécurité des applications de l'entreprise en adoptant des meilleures pratiques d'AWS.
+Ce mini-projet nous permet d'acquérir une expérience pratique dans l'utilisation des services de sécurité AWS pour protéger les applications web et les infrastructures cloud. En suivant les étapes décrites, nous renforcerons la sécurité des applications de l'entreprise en adoptant des meilleures pratiques d'AWS.
 
